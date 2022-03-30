@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T03:43:13.773Z" agent="5.0 (X11)" etag="pJK8hgC1ad8FSkZAs7mW" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T03:43:27.244Z" agent="5.0 (X11)" etag="mS1Hlr1jTlwJMFaTEsVo" version="17.2.4" type="github">
   <diagram id="URqG2apmyTN6tGesmhNg" name="Page-1">
     <mxGraphModel dx="971" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -121,6 +121,9 @@
         <mxCell id="27wbfZ8yFBi5OiMLbJEj-29" value="主机名" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="360" y="282" width="70" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="27wbfZ8yFBi5OiMLbJEj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="27wbfZ8yFBi5OiMLbJEj-33" target="27wbfZ8yFBi5OiMLbJEj-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="27wbfZ8yFBi5OiMLbJEj-33" value="链路层协议" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="360" y="341" width="70" height="27" as="geometry" />
         </mxCell>
@@ -138,6 +141,9 @@
         </mxCell>
         <mxCell id="27wbfZ8yFBi5OiMLbJEj-54" value="Rapid7 RDNS" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="510" y="275.5" width="93.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="27wbfZ8yFBi5OiMLbJEj-57" value="主动探测平台" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="510" y="335" width="93.33" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
