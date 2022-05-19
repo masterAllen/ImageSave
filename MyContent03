@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T19:52:33.387Z" agent="5.0 (X11)" version="18.0.8" etag="-0h5ol6d3Ha2hdwxk7ml" type="github"><diagram id="BlS7vyPA0f8hTxKe7BLp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-19T19:54:07.055Z" agent="5.0 (X11)" etag="8hIqsBkiuZs4R_Y7sQub" version="18.0.8" type="github">
+  <diagram id="BlS7vyPA0f8hTxKe7BLp" name="Page-1">
+    <mxGraphModel dx="971" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aYugntOFazL-njjL9_cI-1" value="粗糙的地理区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aYugntOFazL-njjL9_cI-2" value="选取的探针" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aYugntOFazL-njjL9_cI-3" value="选取的探针" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
