@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T15:24:49.252Z" agent="5.0 (X11)" etag="zj_rBV8VbTeCMZbOqpyB" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T15:25:01.765Z" agent="5.0 (X11)" etag="CciFfC8cQyG-q8QIeVxb" version="18.0.7" type="github">
   <diagram id="becxbHkcYDY2Hwjc7n2T" name="Page-1">
     <mxGraphModel dx="971" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,13 +80,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OajSvm5K2DISiiURC_6C-36" value="ITDK 拓扑数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="275" width="110" height="60" as="geometry" />
+          <mxGeometry x="900" y="200" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OajSvm5K2DISiiURC_6C-39" value="地址准确的路由器地标节点集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="460" width="130" height="85" as="geometry" />
+          <mxGeometry x="890" y="370" width="130" height="85" as="geometry" />
         </mxCell>
         <mxCell id="OajSvm5K2DISiiURC_6C-41" value="&lt;div&gt;1. 从集合中去除存在为第一跳和最后一跳的 IP&lt;/div&gt;&lt;div&gt;2. 加入相距 RTT 小于阈值的 IP&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="380" width="280" height="50" as="geometry" />
+          <mxGeometry x="870" y="300" width="280" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
